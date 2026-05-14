@@ -11,8 +11,11 @@ Four (4) AI- Agents in one System
 ### Here you go: my .env file
 
 GOOGLE_GENAI_USE_VERTEXAI=true
+
 GOOGLE_CLOUD_PROJECT=your-provided-project-id
+
 GOOGLE_CLOUD_LOCATION=global
+
 MODEL=gemini-1.5-flash
 
 
@@ -62,8 +65,11 @@ adk run my_google_search_agent
 Request: Wants strict JSON object containing just capital city nit free-form text
 
 GOOGLE_GENAI_USE_VERTEXAI=true
+
 GOOGLE_CLOUD_PROJECT=your-provided-project-id
+
 GOOGLE_CLOUD_LOCATION=global
+
 MODEL=gemini-1.5-flash
 
 Modify model's resoinse format in code to ensure Booking Engine receives only JSON object
