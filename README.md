@@ -169,4 +169,4 @@ Verify fix by  submitting a false claim for auditing: adk run llm_auditor
 
 Test Prompt: Double check this: You can take a direct train from Hawaii to Japan.
 
-Note: This was the note I took from my Professional Cloud Architect Course with Google Cloud 
+Note: This was from the notes I took while completing a Challenge Lab from my Professional Cloud Architect Certification Course with Google Cloud 
