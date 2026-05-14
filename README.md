@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 - Locate the line in agent.py and Modify the Agent Definition
 
-# Example modification in agent.py
+#### Example modification in agent.py
 agent = Agent(
     tools=[google_search]      # <--- Add this line here
 )
@@ -50,7 +50,7 @@ agent = Agent(
 
 ### Task 3. Verify the agent via the CLI
 
-# Navigate to your project directory if you aren't already there
+#### Navigate to your project directory if you aren't already there
 cd ~/adk_project
 
 # Run the specific agent
