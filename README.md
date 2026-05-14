@@ -9,7 +9,7 @@ Four (4) AI- Agents in one System
 ## Technical Requirement 1: I must use Vertex AI by configuring the .env file - No API Keys
 
 ### Here you go: my .env file
-
+```
 GOOGLE_GENAI_USE_VERTEXAI=true
 
 GOOGLE_CLOUD_PROJECT=your-provided-project-id
@@ -17,7 +17,7 @@ GOOGLE_CLOUD_PROJECT=your-provided-project-id
 GOOGLE_CLOUD_LOCATION=global
 
 MODEL=gemini-1.5-flash
-
+```
 
 ### Task 1. Install ADK and set up your environment
 
